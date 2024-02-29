@@ -10,13 +10,13 @@ import {
 import {
   QUIET_NODE_LINKEDIN_LINK,
   QUIET_NODE_GITHUB_LINK,
-  QUIET_NODE_TWITTER_LINK,
+  QUIET_NODE_SKYPE_LINK,
   QUIET_NODE_EMAIL_LINK,
 } from '@/utils/constants';
 import {
   AiFillGithub,
   AiFillLinkedin,
-  AiFillTwitterCircle,
+  AiFillSkype,
 } from 'react-icons/ai';
 
 const Intro = () => {
@@ -48,7 +48,7 @@ const Intro = () => {
                     text-3xl
                     sm:text-4xl'
             >
-              Howdy,
+              Hello,
               <SmotionSpan
                 animate={{
                   rotate: [0, 30, 0, 30, 0, 0, 0],
@@ -58,7 +58,7 @@ const Intro = () => {
               >
                 👋
               </SmotionSpan>{' '}
-              It&apos;s Logan <span className='hidden xxsm:inline'>;)</span>
+              It&apos;s Yuya Nakai <span className='hidden xxsm:inline'>;)</span>
             </SmotionHeader>
             <SmotionHeader
               elementType='h2'
@@ -69,7 +69,7 @@ const Intro = () => {
               className='text-primary font-medium
                     text-lg sm:text-xl'
             >
-              (a.k.a. quiet-node)
+              (中井裕哉)
             </SmotionHeader>
           </div>
 
@@ -85,7 +85,7 @@ const Intro = () => {
               Full Stack Software Developer.
             </SmotionDiv>
             <SmotionDiv variants={descriptionVariants}>
-              Blockchain and Web 3.0 Enthusiast.
+              Blockchain and Web 3.0 Expert.
             </SmotionDiv>
             <SmotionDiv variants={descriptionVariants}>
               Innovating technology for a brighter future.
@@ -130,12 +130,12 @@ const Intro = () => {
               viewport={{ once: true }}
               whileHover={{ y: -0.5 }}
               transition={{ duration: 0.6, delay: 1.1 }}
-              href={QUIET_NODE_TWITTER_LINK}
+              href={QUIET_NODE_SKYPE_LINK}
               target='_blank'
               className='cursor-pointer hover:text-[#1DA1F2]'
-              title='Twitter'
+              title='Skype'
             >
-              <AiFillTwitterCircle />
+              <AiFillSkype />
             </SmotionLink>
             <SmotionLink
               initial={{ opacity: 0, x: 21 }}

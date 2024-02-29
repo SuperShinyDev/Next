@@ -1,6 +1,6 @@
 <p align="center">
 <br />
-<a href="https://quiet-node.dev"><img src="https://github.com/quiet-node/portfolio-v2/blob/main/public/quiet-node.ico?raw=true" width="150" alt=""/></a>
+<a href="https://quiet-node.dev"><img src="https://github.com/SuperShinyDev/portfolio-v2/blob/main/public/quiet-node.ico?raw=true" width="150" alt=""/></a>
 <h1 align="center">Quiet Node | Portfolio </h1>
 </p>
 

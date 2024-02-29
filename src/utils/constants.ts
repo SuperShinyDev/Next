@@ -11,16 +11,16 @@ export const OFFICIAL_OG_IMAGE_URL = `${OFFICIAL_AUTHOR_URL}/brandings/quiet-nod
 export const OFFICIAL_TWITTER_IMAGE_URL = `${OFFICIAL_AUTHOR_URL}/brandings/quiet-node-twitter.png`;
 
 export const QUIET_NODE_PORTFOLIO_V2_GITHUB_LINK =
-  'https://github.com/quiet-node/portfolio-v2';
+  'https://github.com/SuperShinyDev/portfolio-v2';
 
-export const QUIET_NODE_GITHUB_LINK = 'https://github.com/quiet-node';
+export const QUIET_NODE_GITHUB_LINK = 'https://github.com/SuperShinyDev';
 export const QUIET_NODE_REDDIT_LINK =
   'https://www.reddit.com/user/Quiet-Computer-3495';
-export const QUIET_NODE_EMAIL_LINK = 'mailto:logan@quiet-node.dev';
-export const QUIET_NODE_LINKEDIN_LINK = 'https://linkedin.com/in/logann131';
+export const QUIET_NODE_EMAIL_LINK = 'mailto:yuyanakai99920@gmail.com';
+export const QUIET_NODE_LINKEDIN_LINK = 'https://linkedin.com/in/yuyanakai';
 export const QUIET_NODE_TWITTER_LINK = 'https://twitter.com/quiet_node';
-export const QUIET_NODE_DISCORD_LINK =
-  'https://discordapp.com/users/401650245202739201';
+export const QUIET_NODE_DISCORD_LINK = 'https://discord.gg/zJcPHUnTfw';
+export const QUIET_NODE_SKYPE_LINK = 'https://join.skype.com/invite/xXb5BacVOkIp';
 
 export const GO_LINK = 'https://go.dev/';
 export const TS_LINK = 'https://typescriptlang.org/';
@@ -76,7 +76,7 @@ export const MAIN_LEFT_SKILLS_LISTS: Technology[] = [
   },
   {
     technology: 'Solidity',
-    value: 75,
+    value: 95,
     techLink: SOL_LINK,
     shouldShake: false,
   },
@@ -320,7 +320,7 @@ export const PROJECTS_LISTS: Project[] = [
     },
     description:
       'A helpful GPT-3.5-turbo-powered-assistant whose main goal is to guide users to explore the ecosystem of the Hedera network',
-    repoLink: 'https://github.com/quiet-node/hedro-ai',
+    repoLink: 'https://github.com/SuperShinyDev/hedro-ai',
     liveLink: 'https://hedro-ai.vercel.app',
     demoLink: '',
     thumbnail: 'hedro-ai/hedro-ai.svg',
@@ -696,13 +696,13 @@ export const SOCIAL_FOOTER = [
     link: QUIET_NODE_GITHUB_LINK,
     bgClass: 'bg-github',
   },
-  {
-    id: 1,
-    title: 'Reddit',
-    desc: "Second favorite place. Just became a redditor for a year now but can't stop reading random posts.",
-    link: QUIET_NODE_REDDIT_LINK,
-    bgClass: 'bg-reddit',
-  },
+  // {
+  //   id: 1,
+  //   title: 'Reddit',
+  //   desc: "Second favorite place. Just became a redditor for a year now but can't stop reading random posts.",
+  //   link: QUIET_NODE_REDDIT_LINK,
+  //   bgClass: 'bg-reddit',
+  // },
   {
     id: 2,
     title: 'LinkedIn',
@@ -710,13 +710,13 @@ export const SOCIAL_FOOTER = [
     link: QUIET_NODE_LINKEDIN_LINK,
     bgClass: 'bg-linkedin',
   },
-  {
-    id: 3,
-    title: 'Twitter',
-    desc: 'Only up for the news. Well you know still follow me.',
-    link: QUIET_NODE_TWITTER_LINK,
-    bgClass: 'bg-twitter',
-  },
+  // {
+  //   id: 3,
+  //   title: 'Twitter',
+  //   desc: 'Only up for the news. Well you know still follow me.',
+  //   link: QUIET_NODE_TWITTER_LINK,
+  //   bgClass: 'bg-twitter',
+  // },
   {
     id: 4,
     title: 'Gmail',
