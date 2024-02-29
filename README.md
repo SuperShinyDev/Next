@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+<br />
+<a href="https://quiet-node.dev"><img src="https://github.com/quiet-node/portfolio-v2/blob/main/public/quiet-node.ico?raw=true" width="150" alt=""/></a>
+<h1 align="center">Quiet Node | Portfolio </h1>
+</p>
 
-## Getting Started
+<h3 align="center"> 🏵️ Live at: https://quiet-node.dev </h3>
 
-First, run the development server:
+<div align="center">
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![](https://img.shields.io/badge/TypeScript-5.1.3-blue?style=flat-square&logo=typescript)
+![](https://img.shields.io/badge/React.js-18.2.0-blue?style=flat-square&logo=react)
+![](https://img.shields.io/badge/Next.js-13.4.5-blue?style=flat-square&logo=next.js) <br />
+![](https://img.shields.io/badge/Tailwindcss-3.3.2-blue?style=flat-square&logo=tailwindcss)
+![](https://img.shields.io/badge/FramerMotion-10.2.5-blue?style=flat-square&logo=framer)
+![](https://img.shields.io/badge/Figma-116.7.103-blue?style=flat-square&logo=figma)
+![](https://img.shields.io/badge/Vercel-28.15.3-blue?style=flat-square&logo=vercel)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+</div>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Howdy, 👋 it's Logan ;) Welcome to my Portfolio!
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+I'm a full-stack web 3.0 software developer and a blockchain & smart contract enthusiast.
 
-## Learn More
+In this repository, you'll find some of my latest projects and contributions to the open-source community. From web applications to blockchain-based solutions, I'm always excited to explore new technologies and push the limits of what's possible. So feel free to have a look around, check out my code, and let me know if you have any questions or suggestions. Give it a star ⭐️, too!
 
-To learn more about Next.js, take a look at the following resources:
+Cheers!
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Here is a quick demo:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+https://user-images.githubusercontent.com/66233296/226212618-bb2b6f8c-ace6-4649-957d-df7f66e1907f.mp4
